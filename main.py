@@ -33,5 +33,5 @@ while True:
         print("Produtos salvos no arquivo JSON.")
     
     # Aguarda 6 segundos para simular a geração de 10 produtos por minuto
-    time.sleep(6)
+    time.sleep(2)
 # %%
